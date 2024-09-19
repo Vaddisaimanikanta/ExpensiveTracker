@@ -37,7 +37,7 @@ pip (Python package installer)
 Git installed
 # Setup Instructions
 ### 1.Clone the repository:
-   ```git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker```
+   ```git clone https://github.com/yourusername/expense-tracker.git```
+   ```cd expense-tracker```
 
   
