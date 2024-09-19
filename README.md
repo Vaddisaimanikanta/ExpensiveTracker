@@ -37,6 +37,6 @@ Expense Tracker is a web-based application built with Django that helps users ma
 3.Git installed
 # Setup Instructions
 ### 1.Clone the repository:
-   ```git clone https://github.com/yourusername/expense-tracker.git
+   (```git clone https://github.com/yourusername/expense-tracker.git```)
 
   
