@@ -4,40 +4,39 @@ Expense Tracker is a web-based application built with Django that helps users ma
 
 ## Features
 ### User Authentication:
-User registration (Sign Up)<br>
-Login and Logout functionality<br>
-Secure password storage and authentication<br>
+1.User registration (Sign Up)<br>
+2.Login and Logout functionality<br>
+3.Secure password storage and authentication<br>
 ### Income & Expense Management:
-Add and manage monthly income<br>
-Add and manage expenses<br>
-Delete or update income and expense records<br>
-Track monthly savings automatically<br>
+1.Add and manage monthly income<br>
+2.Add and manage expenses<br>
+3.Delete or update income and expense records<br>
+4.Track monthly savings automatically<br>
 ### Dashboard:
-Overview of monthly income, expenses, and savings<br>
-Summary of all transactions
+1.Overview of monthly income, expenses, and savings<br>
+2.Summary of all transactions
 ### Responsive Design:
-Clean and intuitive UI built using Bootstrap<br>
-Mobile-friendly layout<br>
-Technologies Used<br>
+1.Clean and intuitive UI built using Bootstrap<br>
+2.Mobile-friendly layout<br>
+3.Technologies Used<br>
 ### Backend:
-Django (Python framework)
+1.Django (Python framework)
 ### Frontend:
-HTML5, CSS3 (for structure and styling)<br>
-Bootstrap 5 (for responsive design)<br>
-JavaScript (for dynamic interactions)<br>
+1.HTML5, CSS3 (for structure and styling)<br>
+2.Bootstrap 5 (for responsive design)<br>
+3.JavaScript (for dynamic interactions)<br>
 ### Database:
-SQLite (default Django database)
+1.SQLite (default Django database)
 ### Version Control:
-Git and GitHub
+1.Git and GitHub
 
 # How to Install and Run the Project Locally
 ### Prerequisites
-Python 3.x installed
-pip (Python package installer)
-Git installed
+1.Python 3.x installed
+2.pip (Python package installer)
+3.Git installed
 # Setup Instructions
 ### 1.Clone the repository:
-   ```git clone https://github.com/yourusername/expense-tracker.git```<br>
-   ```cd expense-tracker```
+   ```git clone https://github.com/yourusername/expense-tracker.git
 
   
