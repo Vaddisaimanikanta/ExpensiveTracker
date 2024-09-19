@@ -25,7 +25,19 @@ Django (Python framework)
 HTML5, CSS3 (for structure and styling)<br>
 Bootstrap 5 (for responsive design)<br>
 JavaScript (for dynamic interactions)<br>
-## Database:
+### Database:
 SQLite (default Django database)
 ### Version Control:
 Git and GitHub
+
+# How to Install and Run the Project Locally
+### Prerequisites
+Python 3.x installed
+pip (Python package installer)
+Git installed
+# Setup Instructions
+### 1.Clone the repository:
+   ```git clone https://github.com/yourusername/expense-tracker.git
+cd expense-tracker```
+
+  
