@@ -37,7 +37,7 @@ Expense Tracker is a web-based application built with Django that helps users ma
 3.Git installed
 # Setup Instructions
 ### 1.Clone the repository:
-   ```https://github.com/Vaddisaimanikanta/ExpensiveTracker.git```
+   ```https://github.com/Vaddisaimanikanta/ExpensiveTracker.git```<br>
    ```cd ExpensiveTracker```
 # Run the project: 
 1.After installing the dependencies, you can start the Django development server by running:
